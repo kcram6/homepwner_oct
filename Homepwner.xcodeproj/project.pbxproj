@@ -17,6 +17,7 @@
 		C5D7C29E234A5725004178A4 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5D7C29D234A5725004178A4 /* Item.swift */; };
 		C5D7C2A0234A5960004178A4 /* ItemStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5D7C29F234A5960004178A4 /* ItemStore.swift */; };
 		C5D7C2A2234D917A004178A4 /* ItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5D7C2A1234D917A004178A4 /* ItemCell.swift */; };
+		C5D7C2A4234D9B4E004178A4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5D7C2A3234D9B4E004178A4 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		C5D7C29D234A5725004178A4 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		C5D7C29F234A5960004178A4 /* ItemStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemStore.swift; sourceTree = "<group>"; };
 		C5D7C2A1234D917A004178A4 /* ItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemCell.swift; sourceTree = "<group>"; };
+		C5D7C2A3234D9B4E004178A4 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				C5D7C29D234A5725004178A4 /* Item.swift */,
 				C5D7C29F234A5960004178A4 /* ItemStore.swift */,
 				C5D7C2A1234D917A004178A4 /* ItemCell.swift */,
+				C5D7C2A3234D9B4E004178A4 /* DetailViewController.swift */,
 			);
 			path = Homepwner;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				C5D7C29C234A567A004178A4 /* ItemsViewController.swift in Sources */,
 				C5D7C29E234A5725004178A4 /* Item.swift in Sources */,
 				C5D7C2A0234A5960004178A4 /* ItemStore.swift in Sources */,
+				C5D7C2A4234D9B4E004178A4 /* DetailViewController.swift in Sources */,
 				C5D7C26E234A5625004178A4 /* AppDelegate.swift in Sources */,
 				C5D7C2A2234D917A004178A4 /* ItemCell.swift in Sources */,
 			);
